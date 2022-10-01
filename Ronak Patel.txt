@@ -1,0 +1,8 @@
+.Template
+Hello I am Ronak Patel, I am Linux enthusiastic.
+My enthusiasm with Linux starts 1 year ago I've laptop with low specs, and in that laptop window 10 sucks (Windows sucks in every laptop 😁). So I am searching on Google how to boost performance, how to run windows 10 smoothly on low specs machine but I couldn't find anything or actually there was nothing that can help. So in one article I've heard about Linux Mint is and I've googled about it. And I said that's it I'm shifting on Linux mint.
+
+So from that day I've been using Linux. First two months was difficult and installation was also difficult I've faced many error whilee installing like grub error, partition error, etc. But after two months I've been familiar with Linux ecosystem. and from that day I've been using Linux as primary system. 
+
+I want to go deeper in Linux and learn everything about it and take it to next level 😀.
+
